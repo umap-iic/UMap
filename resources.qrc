@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/UMap" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

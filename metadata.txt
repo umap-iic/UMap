@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=UMap
+qgisMinimumVersion=3.0
+description=This plugin enables any user to transform a stack of digital bathymetric data terrain models into a bathymetric community map.
+version=1.0
+author=IIC Technologies
+email=umap@iictechnologies.com
+
+about=
+
+tracker=https://github.com/umap-iic/UMap/issues
+repository=https://github.com/umap-iic/UMap
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=bathymetry, map, community, depth areas, soundings
+
+homepage=https://umap-iic.github.io/UMap/
+category=Plugins
+icon=UMap_Icon.PNG
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
