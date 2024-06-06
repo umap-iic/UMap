@@ -7,14 +7,14 @@ This extension will facilitate the visualization and use of bathymetric data for
 
 **UMap Plugin process:**
 
-1. Click on windows button and open the QGIS Desktop application. Note that the plugin has been tested for QGIS 3.32 Lima and higher.
+1. Click on Windows button and open the QGIS Desktop application. Note that the plugin has been tested for QGIS 3.32 Lima and higher.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/b2a75e19-def2-420c-99b8-95c3e45677b3)
+![image](https://github.com/umap-iic/UMap/assets/138620082/9643148e-4752-4e00-a0ea-e40e5bb9285e)
 
 
-2. Goto plugins and click on Manage and install plugins in QGIS Desktop
+2. Goto Plugins and click on Manage and Install Plugins in QGIS Desktop
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/950f307e-bb64-4ee5-b008-45148ed5b10d)
+![image](https://github.com/umap-iic/UMap/assets/138620082/fad379c0-f0e1-430a-b44b-0934eeebf525)
 
 
 3. Select All and search “UMap” and install the plugin
