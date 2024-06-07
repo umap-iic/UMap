@@ -12,63 +12,57 @@ This extension will facilitate the visualization and use of bathymetric data for
 ![image](https://github.com/umap-iic/UMap/assets/138620082/9643148e-4752-4e00-a0ea-e40e5bb9285e)
 
 
-2. Goto Plugins and click on Manage and Install Plugins in QGIS Desktop
+2. Goto Plugins and click on Manage and Install Plugins in QGIS Desktop.
 
 ![image](https://github.com/umap-iic/UMap/assets/138620082/fad379c0-f0e1-430a-b44b-0934eeebf525)
 
 
-3. Select All and search “UMap” and install the plugin
+3. Select All and search “UMap” and install the plugin.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/8e296361-c9d1-49f4-b523-a090d83592f7)
-
-
-4. Goto “Plugins” and click on UMap
-
-![image](https://github.com/umap-iic/UMap/assets/170830041/8a28f75f-d995-4726-be1c-992457759274)
+![image](https://github.com/umap-iic/UMap/assets/138620082/f2b89a2c-fffb-40d7-a94c-139db446f348)
 
 
-5. UMap plugin GUI
+4. Goto “Plugins” and click on UMap.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/3981a827-e5f0-4f6b-9480-63f0b0a54dd3)
+![image](https://github.com/umap-iic/UMap/assets/138620082/a6151f50-4f46-4600-b6cf-65e92a433fea)
+
+
+5. UMap plugin GUI.
+
+![image](https://github.com/umap-iic/UMap/assets/138620082/4e52eb20-f632-4a4b-b71a-822126bf825c)
 
 
 6. Please provide a vector file (polygon type) of the extent of the map compilation area. The map extent can be submitted as the extent of the map canvas, drawn directly on the canvas or calculated from a map layer.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/e0001abc-103f-4aff-a49f-5fb7c1becf5a)
+![image](https://github.com/umap-iic/UMap/assets/138620082/3bae963d-15e5-438f-a049-8448c3b5c796)
+
+![image](https://github.com/umap-iic/UMap/assets/138620082/d7767327-9e54-4ea4-99ff-76fde4bd4398)
 
 
 7. Compilation scale is selected based on map extent provided.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/036696c8-96cf-46a6-9408-e7ee800a0f76)
+![image](https://github.com/umap-iic/UMap/assets/138620082/1f437992-5ee5-42fd-88e8-93f0a31a03c4)
 
 
-8. Please provide a vector file (polyline type) of the shoreline for the map compilation area. The shoreline can be submitted as a file (Shapefile, GeoPackage, or GeoJSON), a service (WFS), or a map layer.
+8. Please provide a vector file (polyline type) of the shoreline for the map compilation area. The shoreline can be submitted as a file (Shapefile, GeoPackage, or GeoJSON), a service (WFS), or a map layer. In Canadian waters, NrCAN CanCoast - Marine Shoreline Version 3.0 can be used. 
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/3f2c735d-aa4d-4cb9-9c12-76f678cebe2b)
-
-![image](https://github.com/umap-iic/UMap/assets/170830041/1eaecdf6-9fab-4297-8fe7-09fd30bcf8f1)
-
-![image](https://github.com/umap-iic/UMap/assets/170830041/dc5af2fa-855b-45b6-9067-7b2a3c24f5c8)
-
-![image](https://github.com/umap-iic/UMap/assets/170830041/fc09be6a-d988-48d9-b72c-f774528c7865)
+![image](https://github.com/umap-iic/UMap/assets/138620082/2647cfe6-2f07-4b76-b598-419c121cfa7d)
 
 
-9. Please provide one or more digital bathymetric terrain model for the map compilation area. The digital bathymetric terrain model can be submitted as a file (GeoTIFF, Shapefile, GeoPackage, or GeoJSON), a service (WCS), or a map layer.
+9. Please provide one or more digital bathymetric terrain model for the map compilation area. The digital bathymetric terrain model can be submitted as a file (GeoTIFF, Shapefile, GeoPackage, or GeoJSON), a service (WCS), or a map layer. In Canadian waters, CHS NONNA Web Coverage Service (WCS) can be used.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/b6dd8f4b-d817-474d-817b-b3240d3f9851)
+![image](https://github.com/umap-iic/UMap/assets/138620082/409d67a9-a44e-4649-aae7-9bf31c1213c4)
 
 
 10. Please select “Depth Contours Smoothing” value and “Sounding Selection” value from the available dropdown list.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/19fb845f-b464-4c26-a685-bcab782a5055)
+![image](https://github.com/umap-iic/UMap/assets/138620082/34e58ef9-8514-451d-9dc7-96ad85e73b36)
 
 
 11. Click on “Run” button to execute UMap plugin process.
 
+![image](https://github.com/umap-iic/UMap/assets/138620082/7c67c400-ee4e-4b36-802b-42b14935c465)
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/3bd39695-3d47-460c-b3ef-a2bf4b38591d)
-
-![image](https://github.com/umap-iic/UMap/assets/170830041/1eec489a-35fb-42cb-9adc-970e603b9b83)
 
 12. After processing the plugin the below Community map layers are generated.
 
