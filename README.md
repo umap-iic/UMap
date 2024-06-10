@@ -5,6 +5,9 @@ Bathymetric Community Map - This plugin enables any user to transform a stack of
 
 This extension will facilitate the visualization and use of bathymetric data for the general public. This extension will enable any user to transform a bathymetric data digital terrain model into a bathymetric community map.
 
+See the Demo video https://youtu.be/QiiiLgZRaO4
+
+
 **UMap Plugin process:**
 
 1. Click on Windows button and open the QGIS Desktop application. Note that the plugin has been tested for QGIS 3.32 Lima and higher.
