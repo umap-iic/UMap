@@ -66,7 +66,7 @@ This extension will facilitate the visualization and use of bathymetric data for
 
 12. After processing the plugin the below Community map layers are generated.
 
-![image](https://github.com/umap-iic/UMap/assets/170830041/26d981b2-1869-4da5-8b4e-b7e104af7816)
+![image](https://github.com/umap-iic/UMap/assets/138620082/f9a499c9-0a6b-4065-9805-6d82b17445d6)
 
 
 **UMap plugin output layers:**
@@ -95,4 +95,7 @@ Depth areas group together within a polygon all the depths of a given interval. 
 
 No Data areas represent areas for which no bathymetric data is available.
 
+**Temporary files:**
+
+Temporary files are created in C:\Temp\ folder. A dedicated folder for each process named UMapProcessingddmmaaaahhmmss (for example: UMapProcessing10062024151758) is created each time UMap is launched. This folder contains all the temporary and final files.
 
